@@ -6,6 +6,13 @@
     "build": "vite build",
     "serve": "vite preview"
   },
+  "keywords": [
+    "vite",
+    "vue",
+    "vue3",
+    "mobile",
+    "frontend"
+  ],
   "dependencies": {
     "axios": "^0.21.1",
     "vant": "^3.0.6",
